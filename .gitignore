@@ -1,0 +1,21 @@
+# Build and Release Folders
+backup/
+lib/
+META-INF/
+data/
+
+# Other files and folders
+.classpath
+.DS_Store
+.project
+.settings/
+target/
+temp/
+*.jar
+MOEAD.log
+
+# Testing files
+src/test/
+SASM2/
+weight/
+data/
